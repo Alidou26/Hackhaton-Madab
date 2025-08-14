@@ -147,7 +147,7 @@ Notre innovation phare : transformer l'énergie physique en valeur sociale et é
 
 5. 🤖 **IA prédictive** : Anticiper les flux piétons pour optimiser le stockage
 
-6.♿ **Accessibilité universelle** : Adaptation pour fauteuils roulants et vélos
+6. ♿ **Accessibilité universelle** : Adaptation pour fauteuils roulants et vélos
 
 <div align="right"> <a href="#top">⬆ Retour en haut</a> </div>
 
