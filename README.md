@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <h1>EcoStep - Pavés Piézoélectriques Intelligents</h1>
+  <h1>Madab - Pavés Piézoélectriques Intelligents</h1>
   <p>Projet lauréat 🥈 (2ème prix) du Hackathon ESTD sur les 17 Objectifs de Développement Durable<br>
   Conception de pavés recyclés générant de l'électricité par piézoélectricité + système de récompense innovant</p>
 </div>
@@ -25,7 +25,7 @@
 ---
 
 ## Introduction<a name="introduction"></a>
-**EcoStep** est une solution innovante née lors du Hackathon ESTD sur les ODD. Notre équipe pluridisciplinaire (3 électrotechniciens + 2 informaticiens) a développé des pavés fabriqués à partir de matériaux recyclés qui transforment l'énergie mécanique des pas en électricité grâce à l'effet piézoélectrique.
+**Madab** est une solution innovante née lors du Hackathon ESTD sur les ODD. Notre équipe pluridisciplinaire (3 électrotechniciens + 2 informaticiens) a développé des pavés fabriqués à partir de matériaux recyclés qui transforment l'énergie mécanique des pas en électricité grâce à l'effet piézoélectrique.
 
 Ces pavés sont destinés aux zones à fort trafic piétonnier (aéroports, centres commerciaux, gares). Pour inciter les citoyens à contribuer à la production d'énergie verte, nous avons créé un système de récompense via une application web qui valorise chaque pas en électricité.
 
@@ -97,7 +97,7 @@ Notre innovation phare : transformer l'énergie physique en valeur sociale et é
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL">
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="60" height="60" alt="Arduino">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60" alt="Figma">
+
 </div>
 
 ### Matériel
@@ -162,3 +162,18 @@ Notre innovation phare : transformer l'énergie physique en valeur sociale et é
 ---
 
 ## Démo de la partie application<a name="app"></a>
+
+<img src="image/1.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/2.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/3.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/4.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/5.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/6.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/7.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/8.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/9.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/10.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/11.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/12.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/13.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+<img src="image/14.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
