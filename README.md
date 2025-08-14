@@ -125,7 +125,7 @@ Notre innovation phare : transformer l'énergie physique en valeur sociale et é
 
 ### Bénéfices sociaux :
 
-1. Incitation à la marche (+15% d'activité physique mesurée)
+1. Incitation à la marche 
 
 2. Implication citoyenne dans la transition énergétique
 
